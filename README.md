@@ -1,16 +1,14 @@
 # 四语日课
 
-每天自动生成一则韩语原文，并展示日语、巴西葡语、西班牙语和粤语的自然表达、发音与重点词。
+每天发布一则韩语原文，并展示日语、巴西葡语、西班牙语和粤语的自然表达、发音与重点词。
 
 ## 发布到 GitHub
 
 1. 在 GitHub 新建一个仓库，例如 `daily-four-language-site`。
 2. 把此目录的所有文件推送到仓库的 `main` 分支。
-3. 在仓库的 **Settings → Secrets and variables → Actions** 新建 `OPENAI_API_KEY`。不要把密钥提交到文件中。
-4. 在 **Settings → Pages** 将 Source 设为 **GitHub Actions**。
-5. 打开 **Actions → Generate daily lesson → Run workflow**，生成首篇正式内容。
+3. 在 **Settings → Pages** 将 Source 设为 **GitHub Actions**。
 
-之后，工作流会在上海时间每天 07:13 自动生成新日课；每次提交都会触发 GitHub Pages 部署。
+日课内容由 Codex 在你的要求下生成并提交到 `content/`。每次推送都会触发 GitHub Pages 部署，因此不需要 API Key、服务器或额外费用。
 
 ## 本地预览
 
