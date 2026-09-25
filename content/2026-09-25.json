@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-25",
+  "day": 1,
+  "topic": "在咖啡店约朋友",
+  "source": {"language": "韩语", "text": "내일 카페에서 친구를 만날 거예요.", "glossZh": "明天我要在咖啡店见朋友。"},
+  "translations": [
+    {"id":"ja","language":"日语","style":"自然礼貌","text":"明日、カフェで友だちに会う予定です。","pronunciation":"Ashita, kafe de tomodachi ni au yotei desu.","keywords":[{"term":"友だち","meaningZh":"朋友","pronunciation":"tomodachi","explanationZh":"日常、亲切的“朋友”；比「友人」更常用于口语。"},{"term":"明日","meaningZh":"明天","pronunciation":"ashita","explanationZh":"日常会话中通常读作「あした」。"}]},
+    {"id":"pt-BR","language":"巴西葡语","style":"巴西日常口语","text":"Amanhã vou encontrar um amigo em um café.","pronunciation":"Amanhã vou encontrar um amigo em um café.","keywords":[{"term":"amigo","meaningZh":"朋友","pronunciation":"amigo","explanationZh":"阳性名词；女性朋友使用 amiga。"},{"term":"Amanhã","meaningZh":"明天","pronunciation":"amanhã","explanationZh":"末尾 nh 表示鼻腭音，类似“尼”的起始音。"}]},
+    {"id":"es","language":"西班牙语","style":"日常中性","text":"Mañana voy a quedar con un amigo en una cafetería.","pronunciation":"Mañana voy a quedar con un amigo en una cafetería.","keywords":[{"term":"quedar","meaningZh":"约好见面","pronunciation":"kedar","explanationZh":"西班牙常用 quedar con alguien 表示“和某人约见”。"},{"term":"Mañana","meaningZh":"明天","pronunciation":"mañana","explanationZh":"ñ 是独立字母，发音近似“尼亚”中的 ny。"}]},
+    {"id":"yue","language":"粤语","style":"日常表达","text":"我聽日會同朋友喺咖啡店見面。","pronunciation":"ngo5 ting1 jat6 wui5 tung4 pang4 jau5 hai2 gaa3 fe1 dim3 gin3 min6.","keywords":[{"term":"聽日","meaningZh":"明天","pronunciation":"ting1 jat6","explanationZh":"粤语日常口语中的“明天”。"},{"term":"喺","meaningZh":"在","pronunciation":"hai2","explanationZh":"表示位置或所在，相当于普通话“在”。"}]}
+  ]
+}
