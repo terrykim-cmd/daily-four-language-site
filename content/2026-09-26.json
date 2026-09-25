@@ -1,0 +1,10 @@
+{
+  "date":"2026-09-26", "day":2, "topic":"自我介绍",
+  "source":{"language":"韩语","text":"안녕하세요. 저는 민지예요. 저는 한국에서 왔어요.","glossZh":"你好。我叫敏智。我来自韩国。"},
+  "translations":[
+    {"id":"ja","language":"日语","style":"初学者 · 礼貌","text":"はじめまして。ミンジです。韓国から来ました。","pronunciation":"Hajimemashite. Minji desu. Kankoku kara kimashita.","keywords":[{"term":"です","meaningZh":"是","pronunciation":"desu","explanationZh":"礼貌介绍自己的基本句尾。"},{"term":"から","meaningZh":"从…","pronunciation":"kara","explanationZh":"接在地点后表示来自哪里。"}]},
+    {"id":"pt-BR","language":"巴西葡语","style":"初学者 · 日常","text":"Olá, prazer! Eu sou a Minji. Eu sou da Coreia.","pronunciation":"Olá, prazer! Eu sou a Minji. Eu sou da Coreia.","keywords":[{"term":"Eu sou","meaningZh":"我是","pronunciation":"eu sou","explanationZh":"自我介绍时最基础的句型。"},{"term":"da Coreia","meaningZh":"来自韩国","pronunciation":"da Co-REI-a","explanationZh":"sou da + 地名，表示“我来自…”。"}]},
+    {"id":"es","language":"西班牙语","style":"初学者 · 日常","text":"Hola, mucho gusto. Soy Minji. Soy de Corea.","pronunciation":"Hola, mucho gusto. Soy Minji. Soy de Corea.","keywords":[{"term":"Soy","meaningZh":"我是","pronunciation":"soy","explanationZh":"ser 的第一人称，用于身份介绍。"},{"term":"de Corea","meaningZh":"来自韩国","pronunciation":"de Ko-RE-a","explanationZh":"soy de + 地名，表示“我来自…”。"}]},
+    {"id":"yue","language":"粤语","style":"初学者 · 日常","text":"你好，好高興認識你。我叫敏智。我嚟自韓國。","pronunciation":"nei5 hou2, hou2 gou1 hing3 jing6 sik1 nei5. ngo5 giu3 Man5 zi3. ngo5 lei4 zi6 Hon4 gwok3.","keywords":[{"term":"我叫","meaningZh":"我叫…","pronunciation":"ngo5 giu3","explanationZh":"后面接自己的名字。"},{"term":"嚟自","meaningZh":"来自…","pronunciation":"lei4 zi6","explanationZh":"用于说明来自的地方。"}]}
+  ]
+}
